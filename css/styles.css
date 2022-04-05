@@ -1,0 +1,59 @@
+body {
+  width: 652px;
+  height: 800px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: auto;
+  background-image: linear-gradient(
+    to right,
+    #94d178 ,
+    #94d178 25%,
+    #eee7aa 25%,
+    #eee7aa 75%,
+    #94d178 75%
+  );
+  background-repeat: no-repeat;
+}
+
+div.headerUnderline {
+  width: 38%;
+  height: 12px;
+  background-color: red;
+  margin: -36px auto 36px;
+}
+
+a {
+  margin: 12px;
+  border: solid 1px black;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+div.recipeLinks {
+  margin: 1rem;
+}
+
+p.author {
+  text-align: end;
+  font-size: 1.3rem;
+  color: rgb(75, 7, 75);
+}
+p.quote {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  color: rgb(104, 14, 104);
+}
+
+div.inspiration {
+  width: 80%;
+  margin: 8% auto;
+  padding: 1rem;
+  background-color: #c0eda6;
+  border-radius: 12px;
+}
+p.myName{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+}

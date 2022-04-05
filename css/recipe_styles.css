@@ -1,0 +1,57 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 652px;
+  height: auto;
+  margin: auto;
+  background-image: linear-gradient(
+    to right,
+    #94d178 ,
+    #94d178 25%,
+    #eee7aa 25%,
+    #eee7aa 75%,
+    #94d178 75%
+  );
+  background-repeat: no-repeat;
+}
+
+img {
+  display: block;
+  margin: 2rem auto 1rem;
+  width: 80%;
+}
+
+p {
+  text-indent: 3%;
+  line-height: 1.5;
+}
+
+.underline {
+  height: 12px;
+  margin: -36px 0 36px;
+}
+
+.greenUnderline {
+  width: 32%;
+  background-color: green;
+}
+
+.redUnderline {
+  width: 55%;
+  background-color: red;
+}
+
+.yellowUnderline {
+  width: 60%;
+  background-color: yellow;
+}
+.ingredients {
+  height: 10px;
+  width: 24%;
+  margin: -32px 0 32px;
+}
+
+.steps {
+  height: 10px;
+  width: 12%;
+  margin: -32px 0 32px;
+}
