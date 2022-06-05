@@ -6,3 +6,5 @@ Let's call version 1.0.
 
 ## Version 2.0
 Release date - 05/04/2022
+
+[live demo](https://mink-a.github.io/odin-recipes-mink "Odin Recipes Mink")
